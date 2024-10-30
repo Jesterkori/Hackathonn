@@ -1,0 +1,3 @@
+[submodule "my_model"]
+	path = my_model
+	url = https://github.com/Jesterkori/my_model.git
